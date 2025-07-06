@@ -1,0 +1,6 @@
+{
+  "role": "planner",
+  "round": 1,
+  "max_rounds": 7,
+  "user_goal": "Learn LangGraph"
+}
